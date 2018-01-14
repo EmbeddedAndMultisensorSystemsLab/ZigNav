@@ -1,0 +1,2 @@
+width,height,pixels,equiv_meters
+543,1125,188,2.4384
