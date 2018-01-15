@@ -28,3 +28,6 @@ M.M. Atia, M. Korenberg, A. Noureldin, “Dynamic Online-Calibrated Radio Maps f
 %   <http://www.gnu.org/licenses/>.
 
 %   For commercial use, additional features, or support, please contact mohamed.atia@carleton.ca
+
+For citation, please use the following:
+M. M. Atia, “ZigNav DEMO, a calibration-free cooperative wireless indoor positioning system” DOI:10.5281/zenodo.1147144, Open source project, January 2018
